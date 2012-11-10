@@ -1,29 +1,32 @@
 {
-  "maintainer_email": "YOUR_EMAIL",
-  "platforms": {
+  "dependencies": {
+    "app": ">= 0.0.0"
   },
-  "version": "0.1.0",
-  "providing": {
-  },
-  "name": "openvpn",
-  "attributes": {
-  },
-  "replacing": {
+  "maintainer_email": "lik@zenonbi.com",
+  "recipes": {
+    "openvpn::default": "Install OpenVPN service"
   },
   "suggestions": {
   },
-  "recipes": {
-  },
-  "dependencies": {
-  },
-  "license": "All rights reserved",
-  "conflicting": {
-  },
   "recommendations": {
   },
-  "description": "Installs/Configures openvpn",
-  "maintainer": "YOUR_COMPANY_NAME",
   "groupings": {
   },
+  "attributes": {
+  },
+  "providing": {
+  },
+  "description": "Installs/Configures openvpn",
+  "version": "0.1.0",
+  "license": "All rights reserved",
+  "platforms": {
+    "ubuntu": "~> 10.04"
+  },
+  "conflicting": {
+  },
+  "maintainer": "ZenonBI.com",
+  "replacing": {
+  },
+  "name": "openvpn",
   "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n"
 }
