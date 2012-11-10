@@ -8,3 +8,5 @@ version          "0.1.0"
 supports "ubuntu", "~> 10.04"
 
 depends "app"
+
+recipe "openvpn::default", "Install OpenVPN service"
