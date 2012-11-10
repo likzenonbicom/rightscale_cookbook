@@ -10,7 +10,7 @@
 rightscale_marker :begin
 
 log " Setting provider specific settings for openvpn"
-node[:app][:provider] = "openvpn"
+node[:app][:provider] = "app"
 
 node[:app][:packages] = {"default" => ["openvpn"]}
 
