@@ -1,0 +1,29 @@
+{
+  "maintainer_email": "YOUR_EMAIL",
+  "platforms": {
+  },
+  "version": "0.1.0",
+  "providing": {
+  },
+  "name": "openvpn",
+  "attributes": {
+  },
+  "replacing": {
+  },
+  "suggestions": {
+  },
+  "recipes": {
+  },
+  "dependencies": {
+  },
+  "license": "All rights reserved",
+  "conflicting": {
+  },
+  "recommendations": {
+  },
+  "description": "Installs/Configures openvpn",
+  "maintainer": "YOUR_COMPANY_NAME",
+  "groupings": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n"
+}
