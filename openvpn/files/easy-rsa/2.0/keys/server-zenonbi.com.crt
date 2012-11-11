@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=RU, ST=RU, L=Novosibirsk, O=ZenonBI, CN=ZenonBI CA/emailAddress=lik@zenonbi.com
+        Validity
+            Not Before: Nov 11 10:16:19 2012 GMT
+            Not After : Nov  9 10:16:19 2022 GMT
+        Subject: C=RU, ST=RU, L=Novosibirsk, O=ZenonBI, CN=server-zenonbi.com/emailAddress=lik@zenonbi.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:e9:9d:db:f5:b4:11:09:ff:a0:65:ba:e8:10:f4:
+                    81:bf:c7:44:a0:66:d2:52:53:04:dc:e5:19:90:58:
+                    7c:04:d8:ad:95:15:07:9d:b5:cf:84:21:42:b4:e3:
+                    9e:60:b3:25:fb:8c:a8:90:aa:fd:9a:4a:8e:a8:48:
+                    4e:7b:ec:8e:1f:d9:1f:4d:bb:3e:7c:13:6d:7d:2e:
+                    2e:27:c0:2e:49:b6:b0:93:06:31:13:02:a8:58:39:
+                    a5:82:a2:ab:dd:6f:68:fd:84:ec:bd:4e:06:a4:45:
+                    9d:55:af:0f:e2:21:35:17:9a:e4:2a:10:58:5e:8a:
+                    f3:df:a9:f2:62:5c:7a:75:57
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                F2:44:C0:26:CC:5A:18:47:46:0E:D5:73:81:B3:36:A2:97:23:8B:9C
+            X509v3 Authority Key Identifier: 
+                keyid:E1:9A:D4:CB:2F:F3:1D:81:E9:7C:C6:47:49:66:8D:1D:70:98:49:4E
+                DirName:/C=RU/ST=RU/L=Novosibirsk/O=ZenonBI/CN=ZenonBI CA/emailAddress=lik@zenonbi.com
+                serial:F4:41:B3:43:B5:4E:EC:48
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha1WithRSAEncryption
+        56:2d:ba:85:22:27:24:89:5f:40:4c:ac:c0:a0:15:6d:5a:7d:
+        e9:d1:5f:c1:e4:c8:3f:91:47:50:d4:72:7a:95:7e:a0:d3:6c:
+        e7:12:57:c0:53:cd:02:6c:cd:f2:4e:c7:af:e3:64:e0:8b:fa:
+        ab:c2:43:54:c2:e0:78:e9:6b:b8:c3:91:26:97:fb:0e:17:66:
+        b5:b2:db:74:01:d2:4e:82:93:39:7b:dc:d3:4a:89:22:ea:87:
+        3d:68:27:2a:18:c5:aa:cf:c5:0c:65:2c:4c:20:19:57:d2:c0:
+        8e:ea:22:5e:1d:7b:6e:06:86:0a:98:30:af:49:19:da:a4:57:
+        8c:a9
+-----BEGIN CERTIFICATE-----
+MIIDszCCAxygAwIBAgIBATANBgkqhkiG9w0BAQUFADB3MQswCQYDVQQGEwJSVTEL
+MAkGA1UECBMCUlUxFDASBgNVBAcTC05vdm9zaWJpcnNrMRAwDgYDVQQKEwdaZW5v
+bkJJMRMwEQYDVQQDEwpaZW5vbkJJIENBMR4wHAYJKoZIhvcNAQkBFg9saWtAemVu
+b25iaS5jb20wHhcNMTIxMTExMTAxNjE5WhcNMjIxMTA5MTAxNjE5WjB/MQswCQYD
+VQQGEwJSVTELMAkGA1UECBMCUlUxFDASBgNVBAcTC05vdm9zaWJpcnNrMRAwDgYD
+VQQKEwdaZW5vbkJJMRswGQYDVQQDExJzZXJ2ZXItemVub25iaS5jb20xHjAcBgkq
+hkiG9w0BCQEWD2xpa0B6ZW5vbmJpLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAw
+gYkCgYEA6Z3b9bQRCf+gZbroEPSBv8dEoGbSUlME3OUZkFh8BNitlRUHnbXPhCFC
+tOOeYLMl+4yokKr9mkqOqEhOe+yOH9kfTbs+fBNtfS4uJ8AuSbawkwYxEwKoWDml
+gqKr3W9o/YTsvU4GpEWdVa8P4iE1F5rkKhBYXorz36nyYlx6dVcCAwEAAaOCAUUw
+ggFBMAkGA1UdEwQCMAAwEQYJYIZIAYb4QgEBBAQDAgZAMDQGCWCGSAGG+EIBDQQn
+FiVFYXN5LVJTQSBHZW5lcmF0ZWQgU2VydmVyIENlcnRpZmljYXRlMB0GA1UdDgQW
+BBTyRMAmzFoYR0YO1XOBszailyOLnDCBqQYDVR0jBIGhMIGegBThmtTLL/Mdgel8
+xkdJZo0dcJhJTqF7pHkwdzELMAkGA1UEBhMCUlUxCzAJBgNVBAgTAlJVMRQwEgYD
+VQQHEwtOb3Zvc2liaXJzazEQMA4GA1UEChMHWmVub25CSTETMBEGA1UEAxMKWmVu
+b25CSSBDQTEeMBwGCSqGSIb3DQEJARYPbGlrQHplbm9uYmkuY29tggkA9EGzQ7VO
+7EgwEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYDVR0PBAQDAgWgMA0GCSqGSIb3DQEB
+BQUAA4GBAFYtuoUiJySJX0BMrMCgFW1afenRX8HkyD+RR1DUcnqVfqDTbOcSV8BT
+zQJszfJOx6/jZOCL+qvCQ1TC4Hjpa7jDkSaX+w4XZrWy23QB0k6Ckzl73NNKiSLq
+hz1oJyoYxarPxQxlLEwgGVfSwI7qIl4de24GhgqYMK9JGdqkV4yp
+-----END CERTIFICATE-----
